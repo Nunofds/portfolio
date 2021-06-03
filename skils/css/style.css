@@ -87,5 +87,5 @@ body {
     transform: rotate(-30deg) skew(25deg) translate(10px, -10px);
     box-shadow: -50px 50px 50px rgba(255, 255, 255, 0.5);
     transform: rotateZ(0deg);
-    transition: 1s;
+    transition: 1.5s;
 }
